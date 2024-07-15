@@ -1,0 +1,5 @@
+{
+    "autoDocstring.guessTypes": true,
+    "autoDocstring.includeExtendedSummary": false,
+    "autoDocstring.quoteStyle": "'''"
+}
